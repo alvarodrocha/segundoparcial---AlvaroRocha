@@ -28,3 +28,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
+
+# PRUEBAS DE CONEXION OFFLINE:
+Se redirecciono la ruta del archivo css para que las configuraciones se apliquen al home
+de la misma forma se hizo lo mismo con los archivos js y los html.
