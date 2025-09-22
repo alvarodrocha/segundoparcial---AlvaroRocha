@@ -1,5 +1,4 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
-
 import { Home } from './home';
 
 describe('Home', () => {
@@ -20,4 +19,5 @@ describe('Home', () => {
   it('should create', () => {
     expect(component).toBeTruthy();
   });
+  
 });

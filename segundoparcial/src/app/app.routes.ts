@@ -19,7 +19,7 @@ export const routes: Routes = [
                 component: Home,
                 title: 'Inicio'
              },
-             { 
+                 { 
                  path: 'about',
                  component: About,
                  title: 'Acerca de'
@@ -48,7 +48,9 @@ export const routes: Routes = [
                  path: 'awards',
                  component: Awards,
                  title: 'Premios'
-             }
+             },
+             
+
         ]
     }
 ];
